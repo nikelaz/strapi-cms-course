@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_components_image_with_contents",
+  "info": {
+    "displayName": "ImageWithContent",
+    "icon": "picture"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}

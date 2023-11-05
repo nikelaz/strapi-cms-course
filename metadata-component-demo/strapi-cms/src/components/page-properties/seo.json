@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_properties_seos",
+  "info": {
+    "displayName": "SEO",
+    "icon": "search"
+  },
+  "options": {},
+  "attributes": {
+    "MetaTitle": {
+      "type": "string"
+    },
+    "MetaDescription": {
+      "type": "text"
+    },
+    "MetaTags": {
+      "displayName": "MetaTags",
+      "type": "component",
+      "repeatable": true,
+      "component": "page-properties.meta-tags"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_components_fa_qs",
+  "info": {
+    "displayName": "FAQs",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "FAQItem": {
+      "displayName": "FAQItem",
+      "type": "component",
+      "repeatable": true,
+      "component": "page-components.faq-item"
+    }
+  }
+}

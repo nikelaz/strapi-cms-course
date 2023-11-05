@@ -16,6 +16,5 @@ Or just open the [**Playlist**](https://www.youtube.com/watch?v=aqJI-lY6bbk&list
 
 | Video | Resources |
 |-|-|
-| [**Content Manager and Content Type Builder 🚀 Strapi Course #1**](https://www.youtube.com/watch?v=aqJI-lY6bbk) | links-go-here |
-| [**Components and Dynamic Zones 🚀 Strapi Course #2**](https://www.youtube.com/watch?v=dX2zNFKqelY) | links-go-here |
-| [**Media Library and Custom Image Sizes 🚀 Strapi Course #3**](https://www.youtube.com/watch?v=ihQ7vNnaYTM) | links-go-here
+| [**Components and Dynamic Zones 🚀 Strapi Course #2**](https://www.youtube.com/watch?v=dX2zNFKqelY) | • [**Metadata Component Demo**](tree/main/metadata-component-demo) <br /> • [**Dynamic Zones Demo**](tree/main/dynamic-zones-demo) |
+| [**Media Library and Custom Image Sizes 🚀 Strapi Course #3**](https://www.youtube.com/watch?v=ihQ7vNnaYTM) | • [**Media Library Product Site**](tree/main/media-library-product-site)

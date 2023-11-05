@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_page_components_call_to_actions",
+  "info": {
+    "displayName": "CallToAction",
+    "icon": "cursor"
+  },
+  "options": {},
+  "attributes": {
+    "Headline": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "ButtonText": {
+      "type": "string"
+    },
+    "URL": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "enumeration",
+      "enum": [
+        "Primary",
+        "Secondary"
+      ]
+    }
+  }
+}
