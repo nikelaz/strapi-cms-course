@@ -1,0 +1,15 @@
+{
+  "name": "media-library-product-site",
+  "version": "1.0.0",
+  "description": "## Installation",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "npm install && cd product-site && npm install && cd ../strapi-cms && npm install && cd ../",
+    "start": "concurrently \"cd strapi-cms && npm run develop\" \"cd product-site && npm run dev\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
