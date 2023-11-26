@@ -1,0 +1,15 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "npm install && cd nextjs-ui && npm install && cd ../strapi-cms && npm install && cd ../",
+    "start": "concurrently \"cd strapi-cms && npm run develop\" \"cd nextjs-ui && npm run dev\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
