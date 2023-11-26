@@ -17,6 +17,6 @@ Or just open the [**Playlist**](https://www.youtube.com/watch?v=aqJI-lY6bbk&list
 
 | Video | Resources |
 |-|-|
-| [**Components and Dynamic Zones 🚀 Strapi Course #2**](https://www.youtube.com/watch?v=dX2zNFKqelY) | • [**Metadata Component Demo**](tree/main/metadata-component-demo) <br /> • [**Dynamic Zones Demo**](tree/main/dynamic-zones-demo) |
-| [**Media Library and Custom Image Sizes 🚀 Strapi Course #3**](https://www.youtube.com/watch?v=ihQ7vNnaYTM) | • [**Media Library Product Site**](tree/main/media-library-product-site)
-| [**JWT Authentication with Login and Registration Views 🚀 Strapi Course #6**](https://www.youtube.com/watch?v=r9JCuUkcuBU) | • [**JWT Authentication Demo**](tree/main/jwt-authentication)
+| [**Components and Dynamic Zones 🚀 Strapi Course #2**](https://www.youtube.com/watch?v=dX2zNFKqelY) | • [**Metadata Component Demo**](/nikelaz/strapi-cms-course/tree/main/metadata-component-demo) <br /> • [**Dynamic Zones Demo**](/nikelaz/strapi-cms-course/tree/main/dynamic-zones-demo) |
+| [**Media Library and Custom Image Sizes 🚀 Strapi Course #3**](https://www.youtube.com/watch?v=ihQ7vNnaYTM) | • [**Media Library Product Site**](/nikelaz/strapi-cms-course/tree/main/media-library-product-site)
+| [**JWT Authentication with Login and Registration Views 🚀 Strapi Course #6**](https://www.youtube.com/watch?v=r9JCuUkcuBU) | • [**JWT Authentication Demo**](/nikelaz/strapi-cms-course/tree/main/jwt-authentication)
